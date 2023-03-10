@@ -1,0 +1,2 @@
+ds_queue_destroy(free_idx_queue_elements);
+ds_queue_destroy(free_idx_queue_animations);

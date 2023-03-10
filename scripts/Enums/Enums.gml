@@ -1,0 +1,19 @@
+enum CORNER {
+	TOP_LEFT,
+	TOP_RIGHT,
+	BOT_RIGHT,
+	BOT_LEFT
+}
+
+enum INPUT_TYPE {
+	KEYBOARD = 0,
+	MOUSE,
+	NUM
+}
+
+enum EFFECT_POWER {
+	WEAK,
+	NORMAL,
+	STRONG,
+	NUM
+}
