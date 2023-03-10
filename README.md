@@ -24,6 +24,9 @@ Feel free to use this code in any of your Game Maker projects!
 
 There is a spirit that connects the sea–shares kinship with all its creatures. Its secrets lay among the ruins of a long-forgotton past. Journey with Kin across the ocean floor, reliving its memories and solving puzzles to unlock Kin’s past.
 
+You can also check the [screenshots](https://github.com/petrik33/TTI-Studio-Kin/blob/main/docs/screenshots.md) of the game
+on our docs page!
+
 ## Controls
 
 ### Keyboard Controls
