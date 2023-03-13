@@ -2,7 +2,7 @@
 
 Explore the ocean floor as the spirit, “Kin”. Discover and solve puzzles to connect with other sea spirits and adopt their forms.
 
-Check it out for free on Opera GX Games [Web Page](https://gx.games/ru/games/c8ngub/kin/)
+Check it out for free *in browser* with [Opera GX Games Web Page](https://gx.games/ru/games/c8ngub/kin/) or as a *PC game* on [itch.io page](https://thirty-three-infinities.itch.io/kin)
 
 ## Open Source Code
 
